@@ -1,3 +1,4 @@
+#!/bin/sh
 # A script to install Hama.bundle plug-ing with Absolute-Series-Scanner
 # Hama.bundle: https://github.com/ZeroQI/Hama.bundle
 # ASS: https://github.com/ZeroQI/Absolute-Series-Scanner
